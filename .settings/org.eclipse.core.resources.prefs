@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/jang/bbs/controller/BoardController.java=UTF-8
+encoding//src/main/java/com/jang/bbs/controller/LoginController.java=UTF-8
+encoding//src/main/java/com/jang/bbs/interceptor/SessionInterceptor.java=UTF-8
+encoding//src/main/java/com/jang/bbs/service/BoardService.java=UTF-8
+encoding//src/main/java/com/jang/bbs/utils/PageHelper.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/home.jsp=UTF-8
